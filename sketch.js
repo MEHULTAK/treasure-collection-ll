@@ -101,7 +101,7 @@ gameover.addImage("go",over)
   textSize(20);
   fill(255);
   text("Treasure: "+ treasureCollection,10,30);
-  }
+}
 
 }
 
